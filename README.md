@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jameskelly6
-- 👀 I’m interested in developing my python skills
-- 🌱 I’m currently learning about DSP in Python
+- 👀 I’m interested in developing my python and C++ skills
+- 🌱 I’m currently learning about C++
 - 📫 How to reach me - jameskelly6@gmail.com
 
 <!---
