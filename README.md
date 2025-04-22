@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jameskelly6
 - 👀 I’m interested in backend development and microservices architecture
-- 🌱 I’m currently learning about TypeScript, microservices, and databases
+- 🌱 I’m currently learning TypeScript and Golang
 - 📫 How to reach me - jameskelly6@gmail.com
 
 <!---
